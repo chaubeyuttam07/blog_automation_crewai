@@ -22,7 +22,7 @@ It uses **CrewAI** to orchestrate multiple AI agents with tasks in a sequential 
 
 ## 📂 Project Structure
 
-````graphql
+```graphql
       youtube-blog/
         │── crew.py # Entry point, defines Crew workflow
         │── agents.py # Agents (YouTube Script Writer, Blog Writer)
@@ -31,7 +31,7 @@ It uses **CrewAI** to orchestrate multiple AI agents with tasks in a sequential 
         │── requirements.txt # Python dependencies
         │── README.md # Project documentation
 
-
+```
 
 ## ⚙️ Installation
 
