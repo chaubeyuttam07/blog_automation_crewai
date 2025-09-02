@@ -6,10 +6,10 @@ ollama_llm = LLM(
     base_url="http://localhost:11434", 
     temperature=0.7
 )
-hf_llm = LLM(
-    model="huggingface/mistralai/Mistral-7B-Instruct-v0.1",
-    api_key="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"   # free on huggingface.co
-)
+# hf_llm = LLM(
+#     model="huggingface/mistralai/Mistral-7B-Instruct-v0.1",
+#     api_key="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"   # free on huggingface.co
+# )
 
 
 youtube_script_writer = Agent(
