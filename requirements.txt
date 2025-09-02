@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+chromadb
+langchain
+youtube-transcript-api
+google-api-python-client
