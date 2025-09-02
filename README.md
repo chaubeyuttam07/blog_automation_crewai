@@ -37,20 +37,19 @@ It uses **CrewAI** to orchestrate multiple AI agents with tasks in a sequential 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-blog.git
-   cd youtube-blog
-```
+     git clone https://github.com/yourusername/youtube-blog.git
+      cd youtube-blog
+   ```
 
-Create and activate a virtual environment:
+2.Create and activate a virtual environment:
 ```bash
-     conda create -n crewai-blog python=3.10 -y
-     conda activate crewai-blog
-```
+      conda create -n crewai-blog python=3.10 -y
+      conda activate crewai-blog
+  ```
 
-Install dependencies:
+3.Install dependencies:
 
-```bash
-     python crew.py
+
 Usage
    ```bash
       python crew.py
